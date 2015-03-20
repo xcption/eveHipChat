@@ -1,0 +1,6 @@
+{
+    "require": {
+        "3rdpartyeve/phealng": "~2.0",
+        "gorkalaucirica/hipchat-v2-api-client": "~1.3"
+    }
+}

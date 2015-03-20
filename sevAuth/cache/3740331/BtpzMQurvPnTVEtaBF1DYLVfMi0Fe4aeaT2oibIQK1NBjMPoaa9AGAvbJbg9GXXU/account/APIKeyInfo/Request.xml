@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<eveapi version="2">
+  <currentTime>2015-01-23 00:12:53</currentTime>
+  <result>
+    <key accessMask="8" type="Character" expires="">
+      <rowset name="characters" key="characterID" columns="characterID,characterName,corporationID,corporationName,allianceID,allianceName,factionID,factionName">
+        <row characterID="727551982" characterName="Xcption" corporationID="1003546738" corporationName="Kongsberg Vaapenfabrikk Amarr branch." allianceID="982284363" allianceName="Sev3rance" factionID="0" factionName="" />
+      </rowset>
+    </key>
+  </result>
+  <cachedUntil>2015-01-23 00:17:53</cachedUntil>
+</eveapi>

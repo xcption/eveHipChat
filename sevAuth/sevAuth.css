@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color:white;
+	color:black;
+	font-family:sans-serif;
+}
+
+h2 {
+	text-align:center;
+}
+
+.tdRight {
+	width:70%;
+}
+
+.tdLeft {
+	width:30%;
+	text-align:right;
+}
+
+table {
+	margin-left:30%;
+	margin-right:30%;
+	width:40%;
+}
+
+.error{
+	color:#FF0000;
+}

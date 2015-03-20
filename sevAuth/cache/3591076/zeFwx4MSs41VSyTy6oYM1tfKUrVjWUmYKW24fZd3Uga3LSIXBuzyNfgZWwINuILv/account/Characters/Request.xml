@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<eveapi version="2">
+  <currentTime>2015-01-22 23:53:52</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID,corporationName,corporationID,allianceID,allianceName,factionID,factionName">
+      <row name="Plipp" characterID="94857798" corporationName="Hastromil Gasworks" corporationID="98373121" allianceID="0" allianceName="" factionID="0" factionName="" />
+    </rowset>
+  </result>
+  <cachedUntil>2015-01-23 00:50:51</cachedUntil>
+</eveapi>

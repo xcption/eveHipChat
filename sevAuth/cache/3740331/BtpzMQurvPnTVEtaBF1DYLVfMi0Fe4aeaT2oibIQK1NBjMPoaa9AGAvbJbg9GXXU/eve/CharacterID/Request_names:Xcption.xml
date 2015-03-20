@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<eveapi version="2">
+  <currentTime>2015-01-21 00:21:07</currentTime>
+  <result>
+    <rowset name="characters" key="characterID" columns="name,characterID">
+      <row name="Xcption" characterID="727551982" />
+    </rowset>
+  </result>
+  <cachedUntil>2015-02-21 00:21:07</cachedUntil>
+</eveapi>
